@@ -1,5 +1,5 @@
-- 👋 Hola, soy @joshepvillalba
-- 👀 Estoy interesado en el desarrollo web
+- 👋 Hola, soy @joshepvillalba.
+- 👀 Estoy interesado en el desarrollo web.
 - 🌱 Ahora mismo estudio html, css, javascript, react, node, mogodb.
 
 <!---
