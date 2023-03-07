@@ -1,4 +1,5 @@
 # Hola, soy Joshep Villalba 👋
+---
 ## Futuro Full-stack JavaScript Developer
 
 Me apasiona el desarrollo web, las aplicaciones de escritorio y la automatización mediante scripts. A continuación, encontrarás las tecnologías con las que tengo experiencia:
@@ -18,6 +19,22 @@ Me apasiona el desarrollo web, las aplicaciones de escritorio y la automatizaci�
 - Python: Lenguaje de programación utilizado para automatización de tareas, análisis de datos y desarrollo web.
 
 - MySQL: Sistema de gestión de bases de datos relacionales utilizado para almacenar y administrar grandes conjuntos de datos.
+
+# 📖 Comandos de la Terminal 📖
+
+| Comando | Descripción |
+| ------ | ------ |
+| ls | lista los archivos y directorios en el directorio actual |
+| cd | comando para cambiar el directorio actual |
+| mkdir | Este comando se utiliza para crear un nuevo directorio |
+| rm | Este comando se utiliza para eliminar archivos o directorios en el sistema. |
+| grep | Este comando se utiliza para buscar texto en archivos o en la salida de otros comandos |
+
+```
+ ✏️ Alias en la Terminal ✏️
+alias cl="clear"
+alias rm="trash"
+```
 
 <!---
 joshepvillalba/joshepvillalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
