@@ -7,6 +7,18 @@ Me apasiona el desarrollo web, las aplicaciones de escritorio y la automatizaci�
 
 ¡Gracias por visitar mi perfil de GitHub! Siéntete libre de echar un vistazo a mis repositorios y contribuciones.
 
+## Habilidades técnicas
+
+- HTML: Lenguaje de marcado utilizado para estructurar el contenido web.
+
+- CSS: Lenguaje utilizado para estilizar la presentación del contenido web.
+
+- Javascript: Lenguaje de programación utilizado para crear aplicaciones web interactivas y dinámicas.
+
+- Python: Lenguaje de programación utilizado para automatización de tareas, análisis de datos y desarrollo web.
+
+- MySQL: Sistema de gestión de bases de datos relacionales utilizado para almacenar y administrar grandes conjuntos de datos.
+
 <!---
 joshepvillalba/joshepvillalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
