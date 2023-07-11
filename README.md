@@ -37,7 +37,7 @@ Me apasiona el desarrollo web, las aplicaciones de escritorio y la automatizaci�
 ---
 [![](https://visitcount.itsvg.in/api?id=joshepvillalba&icon=3&color=1)](https://visitcount.itsvg.in)
  
-```
+<!---
 # 📖 Comandos de la Terminal 📖
 
 | Comando | Descripción |
@@ -48,13 +48,13 @@ Me apasiona el desarrollo web, las aplicaciones de escritorio y la automatizaci�
 | rm | Este comando se utiliza para eliminar archivos o directorios en el sistema. |
 | grep | Este comando se utiliza para buscar texto en archivos o en la salida de otros comandos |
 
-
+```
  ✏️ Alias en la Terminal ✏️
 alias cl="clear"
 alias rm="trash"
 ```
 
-<!---
+
 joshepvillalba/joshepvillalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
